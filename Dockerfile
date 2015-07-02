@@ -36,4 +36,4 @@ WORKDIR /root
 
 # set a default command irregardless of we want 
 # a tty when a new container has started
-CMD["/bin/bash"]
+CMD ["/bin/bash"]
